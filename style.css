@@ -1,0 +1,103 @@
+* {
+    font-family: calibri, "times new roman", sans-serif;
+}
+
+body{
+    padding: 0%;
+    margin: 0%;
+
+}
+header {
+    padding: 0px;  
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: rgb(68, 67, 67);
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagen-cac {
+    display: flex;
+    width: 70px;
+    float: left;
+    padding:2px 12px;
+
+    }
+
+
+ .titulo-header {
+    display: flex;
+    margin:0px;
+    color: white;
+ }
+
+
+.nav-link {
+    color: rgb(194, 190, 190);
+    text-align: right;
+    padding:15px;
+    margin: 5px;
+    text-decoration-line: none;
+}
+.nav-tickets {
+    color: green;
+}
+
+.argentina {
+    background-image: url(./imagenes/hawaii.jpg);
+}
+
+
+
+.cards {
+    display: flex;
+    align-items:flex-end;
+}
+
+.text1 {
+text-align: right; 
+padding: 0%;
+margin: 10% 6% 1% 2%;
+}
+.presentacion{
+    background-image: url(./imagenes/ba1.jpg);
+    background-position: center, center; 
+    text-align: right;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.quiero-ser-orador {
+    text-align: left;
+}
+
+.imagenes-de-oradores {
+    width: 160px;
+}
+
+.Honolulu1 {
+    width: 500px;
+    background: fixed;
+    background-color:rgb(57, 57, 66);
+    color: white;
+    margin:0%;
+    padding: 0%;
+    display: flex;
+}
+
+.footer-links{ 
+    background-color: #0205257b;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+
+}
+
+.linksfooter {
+    color: aliceblue;
+    text-decoration: none; 
+    padding:10px;
+    text-align:initial; 
+
+}
