@@ -68,6 +68,10 @@ margin: 10% 6% 1% 2%;
 
 }
 
+.text-white{
+    overflow-x: hidden !important;
+}
+
 .quiero-ser-orador {
     text-align: left;
 }
